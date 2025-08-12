@@ -1,0 +1,2 @@
+# SamaCredMG
+SamaCred Minas
